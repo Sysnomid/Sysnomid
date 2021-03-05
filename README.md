@@ -11,4 +11,3 @@
       
 ```
 
-[https://sysnomid.com](https://sysnomid.com)
