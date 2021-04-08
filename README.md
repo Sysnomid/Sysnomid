@@ -10,5 +10,3 @@
       |__/                                   
       
 ```
-
-Site: https://sysnomid.com
